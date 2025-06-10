@@ -1,6 +1,22 @@
 ﻿## Seminarski radovi iz NWP-a
 
 <details open>
+  <summary style="font-size: 1.5em;"><b>2025</b></summary>
+
+| student | rad | 
+|---|---|
+| Bruno Baburić         | [sudoku](https://github.com/Bruno-bab/Sudoku_igra) |
+| Domagoj Birkić        | [šah](https://github.com/gg5468/Chess) |
+| Viktor Mihovil Kronja | [tic-tac-toe](https://github.com/vmkvsite/TicTacToe4x4_NWP) |
+| Damir Magdić          | [taktičke postavke u nogometu](https://github.com/damagdic/TaktickaPloca) |
+| Matej Marinković      | [video editor](https://github.com/miki261/NWPVideoEditor) |
+| Ivan Pijević          | [space invaders](https://github.com/IvanPijevic/NWP_projekt) |
+| Rudolf Raspudić       | [vizualizacija A* algoritma](https://github.com/rrasp94/Pathfinding) |
+| Kristijan Žalac       | [2048](https://github.com/KriZa96/TwentyFortyEight) |
+
+</details>
+
+<details>
   <summary style="font-size: 1.5em;"><b>2024</b></summary>
 
 | student | rad | 
@@ -8,11 +24,11 @@
 | Tin Bašić        | [izračun statike](https://github.com/TB1501/ProstaGredaGUI) |
 | Kristian Bolarić | [tic tac toe](https://github.com/HapyHaha/TicTacToeNWP) |
 | Ivan Davidović   | [tetris](https://github.com/GoatHasGitHub/NWP-Project-Tetris) |
-| Borna	Gjenero    | [šah](https://github.com/GoatHasGitHub/NWP-Project-Tetris) |
-| Josip	Grabušić   | memory |
+| Borna	Gjenero    | [šah](https://github.com/Bogjenero/CHESS) |
+| Josip	Grabušić   | [memory](https://github.com/jograbus/Memory) |
 | Petar	Huljek     | [arhiva dokumenata](https://github.com/DrHrast/MailingAutomatization_vol.4) |
 | Mihael Krpes     | [uno](https://github.com/MKrpes/Uno) |
-| Filip	Leš        | paint |
+| Filip	Leš        | [paint](https://github.com/ketvok/Draw) | 
 | Sonja	Perković   | [SVG viewer](https://github.com/soperkov/SVG_Viewer-Editor) |
 
 </details>
