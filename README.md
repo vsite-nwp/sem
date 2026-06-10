@@ -1,6 +1,16 @@
 ﻿## Seminarski radovi iz NWP-a
 
 <details open>
+  <summary style="font-size: 1.5em;"><b>2026</b></summary>
+
+| student | rad | 
+|---|---|
+| Patrik Panić         | process viewer |
+| Petar Puharić        | pong |
+
+</details>
+
+<details>
   <summary style="font-size: 1.5em;"><b>2025</b></summary>
 
 | student | rad | 
